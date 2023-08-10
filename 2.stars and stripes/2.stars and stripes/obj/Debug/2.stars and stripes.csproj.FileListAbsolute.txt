@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\H1-Programmering\2.stars and stripes\2.stars and stripes\bin\Debug\2.stars and stripes.exe.config
+C:\Users\Shaz0184\Desktop\H1-Programmering\2.stars and stripes\2.stars and stripes\bin\Debug\2.stars and stripes.exe
+C:\Users\Shaz0184\Desktop\H1-Programmering\2.stars and stripes\2.stars and stripes\bin\Debug\2.stars and stripes.pdb
+C:\Users\Shaz0184\Desktop\H1-Programmering\2.stars and stripes\2.stars and stripes\obj\Debug\2.stars and stripes.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\H1-Programmering\2.stars and stripes\2.stars and stripes\obj\Debug\2.stars and stripes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\H1-Programmering\2.stars and stripes\2.stars and stripes\obj\Debug\2.stars and stripes.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\H1-Programmering\2.stars and stripes\2.stars and stripes\obj\Debug\2.stars and stripes.exe
+C:\Users\Shaz0184\Desktop\H1-Programmering\2.stars and stripes\2.stars and stripes\obj\Debug\2.stars and stripes.pdb
