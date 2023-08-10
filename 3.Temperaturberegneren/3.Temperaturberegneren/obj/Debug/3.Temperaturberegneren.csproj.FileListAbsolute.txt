@@ -1,0 +1,8 @@
+C:\Users\Shaz0184\Desktop\H1-Programmering\3.Temperaturberegneren\3.Temperaturberegneren\bin\Debug\3.Temperaturberegneren.exe.config
+C:\Users\Shaz0184\Desktop\H1-Programmering\3.Temperaturberegneren\3.Temperaturberegneren\bin\Debug\3.Temperaturberegneren.exe
+C:\Users\Shaz0184\Desktop\H1-Programmering\3.Temperaturberegneren\3.Temperaturberegneren\bin\Debug\3.Temperaturberegneren.pdb
+C:\Users\Shaz0184\Desktop\H1-Programmering\3.Temperaturberegneren\3.Temperaturberegneren\obj\Debug\3.Temperaturberegneren.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\H1-Programmering\3.Temperaturberegneren\3.Temperaturberegneren\obj\Debug\3.Temperaturberegneren.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shaz0184\Desktop\H1-Programmering\3.Temperaturberegneren\3.Temperaturberegneren\obj\Debug\3.Temperaturberegneren.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\H1-Programmering\3.Temperaturberegneren\3.Temperaturberegneren\obj\Debug\3.Temperaturberegneren.exe
+C:\Users\Shaz0184\Desktop\H1-Programmering\3.Temperaturberegneren\3.Temperaturberegneren\obj\Debug\3.Temperaturberegneren.pdb
