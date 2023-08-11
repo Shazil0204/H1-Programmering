@@ -1,0 +1,7 @@
+C:\Users\Shaz0184\Desktop\H1-Programmering\6.Terningen\6.Terningen\bin\Debug\6.Terningen.exe.config
+C:\Users\Shaz0184\Desktop\H1-Programmering\6.Terningen\6.Terningen\bin\Debug\6.Terningen.exe
+C:\Users\Shaz0184\Desktop\H1-Programmering\6.Terningen\6.Terningen\bin\Debug\6.Terningen.pdb
+C:\Users\Shaz0184\Desktop\H1-Programmering\6.Terningen\6.Terningen\obj\Debug\6.Terningen.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\H1-Programmering\6.Terningen\6.Terningen\obj\Debug\6.Terningen.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\H1-Programmering\6.Terningen\6.Terningen\obj\Debug\6.Terningen.exe
+C:\Users\Shaz0184\Desktop\H1-Programmering\6.Terningen\6.Terningen\obj\Debug\6.Terningen.pdb
