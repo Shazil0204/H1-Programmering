@@ -173,6 +173,9 @@ namespace _8.Morsekoden
                     case '@':
                         Console.WriteLine(" · — — · — · ");
                         break;
+
+                    default:
+                        break;
                 }
             }
         }
