@@ -1,7 +1,0 @@
-C:\Users\Shaz0184\Desktop\H1-Programmering\6.BMI udregneren\6.BMI udregneren\bin\Debug\6.BMI udregneren.exe.config
-C:\Users\Shaz0184\Desktop\H1-Programmering\6.BMI udregneren\6.BMI udregneren\bin\Debug\6.BMI udregneren.exe
-C:\Users\Shaz0184\Desktop\H1-Programmering\6.BMI udregneren\6.BMI udregneren\bin\Debug\6.BMI udregneren.pdb
-C:\Users\Shaz0184\Desktop\H1-Programmering\6.BMI udregneren\6.BMI udregneren\obj\Debug\6.BMI udregneren.csproj.AssemblyReference.cache
-C:\Users\Shaz0184\Desktop\H1-Programmering\6.BMI udregneren\6.BMI udregneren\obj\Debug\6.BMI udregneren.csproj.CoreCompileInputs.cache
-C:\Users\Shaz0184\Desktop\H1-Programmering\6.BMI udregneren\6.BMI udregneren\obj\Debug\6.BMI udregneren.exe
-C:\Users\Shaz0184\Desktop\H1-Programmering\6.BMI udregneren\6.BMI udregneren\obj\Debug\6.BMI udregneren.pdb
