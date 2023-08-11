@@ -1,0 +1,7 @@
+C:\Users\Shaz0184\Desktop\H1-Programmering\8.Morsekoden\8.Morsekoden\bin\Debug\8.Morsekoden.exe.config
+C:\Users\Shaz0184\Desktop\H1-Programmering\8.Morsekoden\8.Morsekoden\bin\Debug\8.Morsekoden.exe
+C:\Users\Shaz0184\Desktop\H1-Programmering\8.Morsekoden\8.Morsekoden\bin\Debug\8.Morsekoden.pdb
+C:\Users\Shaz0184\Desktop\H1-Programmering\8.Morsekoden\8.Morsekoden\obj\Debug\8.Morsekoden.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\H1-Programmering\8.Morsekoden\8.Morsekoden\obj\Debug\8.Morsekoden.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\H1-Programmering\8.Morsekoden\8.Morsekoden\obj\Debug\8.Morsekoden.exe
+C:\Users\Shaz0184\Desktop\H1-Programmering\8.Morsekoden\8.Morsekoden\obj\Debug\8.Morsekoden.pdb
