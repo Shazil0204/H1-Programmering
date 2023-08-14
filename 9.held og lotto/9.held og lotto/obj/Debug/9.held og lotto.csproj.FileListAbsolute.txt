@@ -1,0 +1,7 @@
+C:\Users\Shaz0184\Desktop\H1-Programmering\9.held og lotto\9.held og lotto\bin\Debug\9.held og lotto.exe.config
+C:\Users\Shaz0184\Desktop\H1-Programmering\9.held og lotto\9.held og lotto\bin\Debug\9.held og lotto.exe
+C:\Users\Shaz0184\Desktop\H1-Programmering\9.held og lotto\9.held og lotto\bin\Debug\9.held og lotto.pdb
+C:\Users\Shaz0184\Desktop\H1-Programmering\9.held og lotto\9.held og lotto\obj\Debug\9.held og lotto.csproj.AssemblyReference.cache
+C:\Users\Shaz0184\Desktop\H1-Programmering\9.held og lotto\9.held og lotto\obj\Debug\9.held og lotto.csproj.CoreCompileInputs.cache
+C:\Users\Shaz0184\Desktop\H1-Programmering\9.held og lotto\9.held og lotto\obj\Debug\9.held og lotto.exe
+C:\Users\Shaz0184\Desktop\H1-Programmering\9.held og lotto\9.held og lotto\obj\Debug\9.held og lotto.pdb

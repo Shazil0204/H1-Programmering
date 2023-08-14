@@ -176,6 +176,7 @@ namespace _8.Morsekoden
 
                     default:
                         break;
+
                 }
             }
         }
