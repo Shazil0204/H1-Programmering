@@ -1,0 +1,7 @@
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\11. Nim\bin\Debug\_11.Nim.exe.config
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\11. Nim\bin\Debug\_11.Nim.exe
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\11. Nim\bin\Debug\_11.Nim.pdb
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\11. Nim\obj\Debug\11. Nim.csproj.AssemblyReference.cache
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\11. Nim\obj\Debug\11. Nim.csproj.CoreCompileInputs.cache
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\11. Nim\obj\Debug\_11.Nim.exe
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\11. Nim\obj\Debug\_11.Nim.pdb

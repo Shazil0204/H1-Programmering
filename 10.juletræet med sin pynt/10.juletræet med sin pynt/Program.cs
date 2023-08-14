@@ -12,25 +12,38 @@ namespace _10.juletræet_med_sin_pynt
         {
             Console.WriteLine("type a number");
 
-            int number = int.Parse(Console.ReadLine());
+            byte number = byte.Parse(Console.ReadLine());
 
-            string star = "";
-
-            for (int i = 0; i <= number; i++)
+            for (byte i = 0; i <= number; i++)
             {
-                for (int j = 1; j <= number - i; j++)
+                // Print leading spaces
+                for (byte j = 1; j <= number - i; j++)
                 {
-                    star += " ";
+                    Console.Write(" ");
                 }
 
-                for (int k = 0; k < 2 * i - 1; k++)
+                // Counter to keep track of the star's position
+                int starCounter = 1;
+
+                // Print stars
+                for (byte k = 0; k < 2 * i - 1; k++)
                 {
-                    star += "*";
+                    if (starCounter % 2 == 0)// Set color to red for even-numbered stars
+                    {
+                        Console.ForegroundColor = ConsoleColor.Red; 
+                    }
+                    else
+                    {
+                        Console.ResetColor();
+                    }
+
+                    Console.Write("*");
+                    starCounter++;
                 }
-                star += "\n";
+
+                Console.ResetColor(); // Reset color after printing the row
+                Console.WriteLine();
             }
-
-            Console.WriteLine(star);
         }
     }
 }

@@ -5,3 +5,10 @@ C:\Users\Shaz0184\Desktop\H1-Programmering\10.juletræet med sin pynt\10.juletr�
 C:\Users\Shaz0184\Desktop\H1-Programmering\10.juletræet med sin pynt\10.juletræet med sin pynt\obj\Debug\10.juletræet med sin pynt.csproj.CoreCompileInputs.cache
 C:\Users\Shaz0184\Desktop\H1-Programmering\10.juletræet med sin pynt\10.juletræet med sin pynt\obj\Debug\10.juletræet med sin pynt.exe
 C:\Users\Shaz0184\Desktop\H1-Programmering\10.juletræet med sin pynt\10.juletræet med sin pynt\obj\Debug\10.juletræet med sin pynt.pdb
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\10.juletræet med sin pynt\10.juletræet med sin pynt\bin\Debug\10.juletræet med sin pynt.exe.config
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\10.juletræet med sin pynt\10.juletræet med sin pynt\bin\Debug\10.juletræet med sin pynt.exe
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\10.juletræet med sin pynt\10.juletræet med sin pynt\bin\Debug\10.juletræet med sin pynt.pdb
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\10.juletræet med sin pynt\10.juletræet med sin pynt\obj\Debug\10.juletræet med sin pynt.csproj.AssemblyReference.cache
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\10.juletræet med sin pynt\10.juletræet med sin pynt\obj\Debug\10.juletræet med sin pynt.csproj.CoreCompileInputs.cache
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\10.juletræet med sin pynt\10.juletræet med sin pynt\obj\Debug\10.juletræet med sin pynt.exe
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\10.juletræet med sin pynt\10.juletræet med sin pynt\obj\Debug\10.juletræet med sin pynt.pdb
