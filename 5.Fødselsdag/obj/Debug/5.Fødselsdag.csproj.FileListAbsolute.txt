@@ -1,8 +1,0 @@
-C:\Users\Shazil\Desktop\Skole\5.Fødselsdag\bin\Debug\5.Fødselsdag.exe.config
-C:\Users\Shazil\Desktop\Skole\5.Fødselsdag\bin\Debug\5.Fødselsdag.exe
-C:\Users\Shazil\Desktop\Skole\5.Fødselsdag\bin\Debug\5.Fødselsdag.pdb
-C:\Users\Shazil\Desktop\Skole\5.Fødselsdag\obj\Debug\5.Fødselsdag.csproj.AssemblyReference.cache
-C:\Users\Shazil\Desktop\Skole\5.Fødselsdag\obj\Debug\5.Fødselsdag.csproj.SuggestedBindingRedirects.cache
-C:\Users\Shazil\Desktop\Skole\5.Fødselsdag\obj\Debug\5.Fødselsdag.csproj.CoreCompileInputs.cache
-C:\Users\Shazil\Desktop\Skole\5.Fødselsdag\obj\Debug\5.Fødselsdag.exe
-C:\Users\Shazil\Desktop\Skole\5.Fødselsdag\obj\Debug\5.Fødselsdag.pdb
