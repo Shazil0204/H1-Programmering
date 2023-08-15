@@ -1,0 +1,7 @@
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\13. Mozart vals generator\bin\Debug\_13.Mozart_vals_generator.exe.config
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\13. Mozart vals generator\bin\Debug\_13.Mozart_vals_generator.exe
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\13. Mozart vals generator\bin\Debug\_13.Mozart_vals_generator.pdb
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\13. Mozart vals generator\obj\Debug\13. Mozart vals generator.csproj.AssemblyReference.cache
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\13. Mozart vals generator\obj\Debug\13. Mozart vals generator.csproj.CoreCompileInputs.cache
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\13. Mozart vals generator\obj\Debug\_13.Mozart_vals_generator.exe
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\13. Mozart vals generator\obj\Debug\_13.Mozart_vals_generator.pdb
