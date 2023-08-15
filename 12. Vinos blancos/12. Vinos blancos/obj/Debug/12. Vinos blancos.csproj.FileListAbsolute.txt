@@ -5,3 +5,10 @@ C:\Users\Shaz0184\Desktop\H1-Programmering\12. Vinos blancos\12. Vinos blancos\o
 C:\Users\Shaz0184\Desktop\H1-Programmering\12. Vinos blancos\12. Vinos blancos\obj\Debug\12. Vinos blancos.csproj.CoreCompileInputs.cache
 C:\Users\Shaz0184\Desktop\H1-Programmering\12. Vinos blancos\12. Vinos blancos\obj\Debug\_12.Vinos_blancos.exe
 C:\Users\Shaz0184\Desktop\H1-Programmering\12. Vinos blancos\12. Vinos blancos\obj\Debug\_12.Vinos_blancos.pdb
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\12. Vinos blancos\12. Vinos blancos\bin\Debug\_12.Vinos_blancos.exe.config
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\12. Vinos blancos\12. Vinos blancos\bin\Debug\_12.Vinos_blancos.exe
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\12. Vinos blancos\12. Vinos blancos\bin\Debug\_12.Vinos_blancos.pdb
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\12. Vinos blancos\12. Vinos blancos\obj\Debug\12. Vinos blancos.csproj.AssemblyReference.cache
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\12. Vinos blancos\12. Vinos blancos\obj\Debug\12. Vinos blancos.csproj.CoreCompileInputs.cache
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\12. Vinos blancos\12. Vinos blancos\obj\Debug\_12.Vinos_blancos.exe
+C:\Users\Shazil\Desktop\Skole\H1-Programmering\12. Vinos blancos\12. Vinos blancos\obj\Debug\_12.Vinos_blancos.pdb
