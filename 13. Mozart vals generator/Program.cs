@@ -10,6 +10,7 @@ namespace _13.Mozart_vals_generator
     {
         static void Main(string[] args)
         {
+            
             Controller();
         }
 
@@ -54,14 +55,14 @@ namespace _13.Mozart_vals_generator
             {
                 Random random = new Random();
                 int dice = random.Next(2, 13);
-                files.Add(@"C:\Users\Shazil\Desktop\Skole\H1-Programmering\All my tasks\13. mozarts vals generator\Wave\M" + menuets[dice - 2, i] + ".wav");
+                files.Add(@"C:\Users\Shaz0184\Desktop\H1-Programmering\All my tasks\13. mozarts vals generator\Wave\M" + menuets[dice - 2, i] + ".wav");
             }
 
             for (int i = 0; i < 16; i++)
             {
                 Random random = new Random();
                 int dice = random.Next(1, 7);
-                files.Add(@"C:\Users\Shazil\Desktop\Skole\H1-Programmering\All my tasks\13. mozarts vals generator\Wave\T" + trios[dice - 1, i] + ".wav");
+                files.Add(@"C:\Users\Shaz0184\Desktop\H1-Programmering\All my tasks\13. mozarts vals generator\Wave\T" + trios[dice - 1, i] + ".wav");
             }
 
             return files;
