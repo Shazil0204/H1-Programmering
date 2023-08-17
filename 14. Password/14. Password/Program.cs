@@ -20,7 +20,7 @@ namespace _14.Password
         /// </summary>
         static void FirstInformation()
         {
-            Console.WriteLine("Hello and welcome create a valid password\n");
+            Console.WriteLine("\nHello and welcome create a valid password\n");
             Console.WriteLine("You have to create a valid password and these are the following thing that will make sure you have a valid password:\n");
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("1.\tMake sure your password is longer then 12 characters and smaller then 64 characters\n");
@@ -71,6 +71,16 @@ namespace _14.Password
         }
 
         /// <summary>
+        /// This method is to ask user about creating a new password
+        /// </summary>
+        static void YellowPasswordGUI()
+        {
+            Console.ForegroundColor= ConsoleColor.Yellow;
+            Console.Write("\nDo you want to create a new password? Y - Yes / N - No:\t");
+            Console.ResetColor();
+        }
+
+        /// <summary>
         /// This is just to show if the password does not follow the necessary requirments
         /// </summary>
         static void RedPassword()
@@ -90,7 +100,6 @@ namespace _14.Password
         /// </summary>
         static void MainController()
         {
-            FirstInformation();
             NecessaryPasswordRequirment();
         }
 
@@ -99,17 +108,40 @@ namespace _14.Password
         /// </summary>
         static void NecessaryPasswordRequirment()
         {
-            string UserPassword = Console.ReadLine();
+            bool recreate = true;
 
-            if(UserPassword.Length >= 12 && UserPassword.Length <= 64)
+            while (recreate)
             {
-                if (UserPassword.Any(char.IsUpper) && UserPassword.Any(char.IsLower))
+                FirstInformation();
+                string UserPassword = Console.ReadLine();
+
+                if (UserPassword.Length >= 12 && UserPassword.Length <= 64)
                 {
-                    if (UserPassword.Any(p => !char.IsLetterOrDigit(p) == true)) // can't use => this so i have to find a for loop
+                    if (UserPassword.Any(char.IsUpper) && UserPassword.Any(char.IsLower))
                     {
-                        if (UserPassword.Any(char.IsDigit))
+
+                        if (UserPassword.Any(p => !char.IsLetterOrDigit(p) == true)) // can't use => this so i have to find a for loop
                         {
-                            SameLetterOrCharacters(UserPassword);
+                            bool containsSpecialChar = false;
+                            foreach (char p in UserPassword)
+                            {
+                                if (char.IsLetterOrDigit(p))
+                                {
+                                    containsSpecialChar = true;
+                                    break;
+                                }
+                            }
+
+                            if (containsSpecialChar == true)
+                            {
+                                if (UserPassword.Any(char.IsDigit))
+                                {
+                                    SameLetterOrCharacters(UserPassword);
+                                    recreate = false;
+                                }
+                                else { RedPassword(); }
+                            }
+                            else { RedPassword(); }
                         }
                         else { RedPassword(); }
                     }
@@ -117,56 +149,19 @@ namespace _14.Password
                 }
                 else { RedPassword(); }
             }
-            else { RedPassword(); }
         }
 
         /// <summary>
         /// This method will only work if the NecessaryPasswordRequirment method is completed properly. this method will make sure that password does not have more then 3 same letters or characters
         /// </summary>
-        static bool SameLetterOrCharacters(string UP)
+        static void SameLetterOrCharacters(string UP)
         {
-            char[] up = UP.ToCharArray();
-
-            for (int i = 0; i < up.Length - 3; i++)
-            {
-                if (up[i] == up[i + 1] && up[i + 1] == up[i + 2] && up[i + 2] == up[i + 3])
-                {
-                    result(true);
-                }
-                else
-                {
-                    result(false);
-                }
-            }
-            return false;
-        }
-
-
-        /// <summary>
-        /// This method is just to check the SameLetterOrCharacters
-        /// </summary>
-        /// <param name="result"></param>
-        static void result(bool result)
-        {
-            if (result == true)
-            {
-                Console.WriteLine("your password contains same alphabets character");
-            }
-            else { Console.WriteLine("your password is okay"); }
-        }
-
-        /// <summary>
-        /// This method make sure that your password does not have 4 same characters next to each other
-        /// </summary>
-        static void LettersInRow()
-        {
-            string password = Console.ReadLine();
             int check = 1;
             bool sendresult = false;
 
-            for (int i = 0; i < password.Length - 1; i++)
+            for (int i = 0; i < UP.Length - 1; i++)
             {
-                if (password[i] == password[i + 1])
+                if (UP[i] == UP[i + 1])
                 {
                     check++;
                 }
@@ -181,17 +176,80 @@ namespace _14.Password
                     break;
                 }
             }
-            Check(sendresult);
+
+            if (sendresult == false)
+            {
+                LettersInRow(UP);
+            }
+            else
+            {
+                YellowPassword();
+                YellowPasswordReply();
+            }
         }
 
         /// <summary>
-        /// This method is just to check the LettersInRow method
+        /// This method make sure that your password does not have 4 same characters next to each other
         /// </summary>
-        /// <param name="check"></param>
-        static void Check(bool check)
+        static void LettersInRow(string UP)
         {
-            if (check == true) { Console.WriteLine("your password does have similar characters"); }
-            else { Console.WriteLine("your password does not have any similar characters"); }
+            int check = 1;
+            bool sendresult = false;
+
+            for (int i = 0; i < UP.Length - 1; i++)
+            {
+                if (UP[i] + 1 == UP[i + 1])
+                {
+                    check++;
+                }
+                else
+                {
+                    check = 1;
+                }
+
+                if (check == 4)
+                {
+                    sendresult = true;
+                    break;
+                }
+            }
+
+            if (sendresult == false)
+            {
+                Finalization(sendresult);
+            }
+            else 
+            {
+                YellowPassword();
+                YellowPasswordReply();
+            }
+        }
+
+        /// <summary>
+        /// This method will ask user if the user want to make a new password because user's password is not really strong
+        /// </summary>
+        static void YellowPasswordReply()
+        {
+            YellowPasswordGUI();
+            
+            string reply = (Console.ReadLine());
+
+            reply = reply.ToUpper();
+
+            if (reply == "Y")
+            {
+                Console.Clear();
+                NecessaryPasswordRequirment();
+            }
+        }
+
+        /// <summary>
+        /// This method will only work if all the other method are done and will just tell user that its password is Green
+        /// </summary>
+        /// <param name="finalResult"></param>
+        static void Finalization(bool finalResult)
+        {
+            GreenPassword();
         }
 
         #endregion
