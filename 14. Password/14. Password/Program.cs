@@ -120,7 +120,7 @@ namespace _14.Password
                     if (UserPassword.Any(char.IsUpper) && UserPassword.Any(char.IsLower))
                     {
 
-                        if (UserPassword.Any(p => !char.IsLetterOrDigit(p) == true)) // can't use => this so i have to find a for loop
+                        if (UserPassword.Any(p => !char.IsLetterOrDigit(p) == true))
                         {
                             bool containsSpecialChar = false;
                             foreach (char p in UserPassword)
